@@ -1,0 +1,320 @@
+﻿fecha,municipio,casos,lugar
+4/2/20,Aguada,1,municipio
+4/2/20,Aguadilla,1,municipio
+4/2/20,Aguas Buenas,3,municipio
+4/2/20,Añasco,2,municipio
+4/2/20,Arecibo,5,municipio
+4/2/20,Barranquitas,1,municipio
+4/2/20,Bayamón,17,municipio
+4/2/20,Cabo Rojo,4,municipio
+4/2/20,Caguas,16,municipio
+4/2/20,Canóvanas,3,municipio
+4/2/20,Carolina,12,municipio
+4/2/20,Cataño,2,municipio
+4/2/20,Cayey,1,municipio
+4/2/20,Ceiba,3,municipio
+4/2/20,Dorado,3,municipio
+4/2/20,Guánica,1,municipio
+4/2/20,Guayama,1,municipio
+4/2/20,Guaynabo,20,municipio
+4/2/20,Gurabo,3,municipio
+4/2/20,Hatillo,1,municipio
+4/2/20,Hormigueros,2,municipio
+4/2/20,Humacao,1,municipio
+4/2/20,Isabela,4,municipio
+4/2/20,Juana Díaz,2,municipio
+4/2/20,Lajas,1,municipio
+4/2/20,Lares,1,municipio
+4/2/20,Luquillo,3,municipio
+4/2/20,Mayaguez,6,municipio
+4/2/20,Moca,1,municipio
+4/2/20,Ponce,2,municipio
+4/2/20,Rio Grande,1,municipio
+4/2/20,Sabana Grande,2,municipio
+4/2/20,Salinas,8,municipio
+4/2/20,San Juan,38,municipio
+4/2/20,San Lorenzo,2,municipio
+4/2/20,San Sebastián,3,municipio
+4/2/20,Toa Alta,6,municipio
+4/2/20,Toa Baja,8,municipio
+4/2/20,Trujillo Alto,5,municipio
+4/2/20,Vega Alta,3,municipio
+4/2/20,Vega Baja,2,municipio
+4/2/20,Yabucoa,1,municipio
+4/2/20,Yauco,5,municipio
+4/2/20,New York,4,externo
+4/2/20,No Disponible,167,nodisponible
+4/1/20,Aguada,1,municipio
+4/1/20,Aguas Buenas,3,municipio
+4/1/20,Añasco,2,municipio
+4/1/20,Arecibo,5,municipio
+4/1/20,Barranquitas,1,municipio
+4/1/20,Bayamón,14,municipio
+4/1/20,Cabo Rojo,3,municipio
+4/1/20,Caguas,16,municipio
+4/1/20,Canóvanas,3,municipio
+4/1/20,Carolina,10,municipio
+4/1/20,Cataño,1,municipio
+4/1/20,Cayey,1,municipio
+4/1/20,Ceiba,3,municipio
+4/1/20,Dorado,3,municipio
+4/1/20,Guánica,1,municipio
+4/1/20,Guaynabo,17,municipio
+4/1/20,Gurabo,3,municipio
+4/1/20,Hatillo,1,municipio
+4/1/20,Hormigueros,2,municipio
+4/1/20,Humacao,1,municipio
+4/1/20,Isabela,2,municipio
+4/1/20,Juana Díaz,2,municipio
+4/1/20,Lajas,1,municipio
+4/1/20,Lares,1,municipio
+4/1/20,Luquillo,1,municipio
+4/1/20,Mayagüez,6,municipio
+4/1/20,Moca,1,municipio
+4/1/20,Ponce,1,municipio
+4/1/20,Rio Grande,1,municipio
+4/1/20,Sabana Grande,2,municipio
+4/1/20,Salinas,1,municipio
+4/1/20,San Juan,38,municipio
+4/1/20,San Lorenzo,2,municipio
+4/1/20,San Sebastián,3,municipio
+4/1/20,Toa Alta,5,municipio
+4/1/20,Toa Baja,6,municipio
+4/1/20,Trujillo Alto,5,municipio
+4/1/20,Vega Alta,1,municipio
+4/1/20,Vega Baja,2,municipio
+4/1/20,Yauco,4,municipio
+4/1/20,New York,4,externo
+4/1/20,No disponible,136,nodisponible
+3/31/20,Aguada,1,municipio
+3/31/20,Aguas Buenas,3,municipio
+3/31/20,Añasco,2,municipio
+3/31/20,Arecibo,5,municipio
+3/31/20,Barranquitas,1,municipio
+3/31/20,Bayamón,14,municipio
+3/31/20,Cabo Rojo,3,municipio
+3/31/20,Caguas,16,municipio
+3/31/20,Canóvanas,3,municipio
+3/31/20,Carolina,9,municipio
+3/31/20,Cataño,1,municipio
+3/31/20,Cayey,1,municipio
+3/31/20,Ceiba,3,municipio
+3/31/20,Dorado,3,municipio
+3/31/20,Guánica,1,municipio
+3/31/20,Guaynabo,16,municipio
+3/31/20,Gurabo,3,municipio
+3/31/20,Hormigueros,2,municipio
+3/31/20,Humacao,1,municipio
+3/31/20,Isabela,2,municipio
+3/31/20,Juana Díaz,2,municipio
+3/31/20,Lajas,1,municipio
+3/31/20,Lares,1,municipio
+3/31/20,Luquillo,1,municipio
+3/31/20,Mayaguez,6,municipio
+3/31/20,Moca,1,municipio
+3/31/20,Rio Grande,1,municipio
+3/31/20,Sabana grande,2,municipio
+3/31/20,San Juan,34,municipio
+3/31/20,San Lorenzo,2,municipio
+3/31/20,San Sebastián,2,municipio
+3/31/20,Toa Alta,5,municipio
+3/31/20,Toa Baja,4,municipio
+3/31/20,Trujillo Alto,4,municipio
+3/31/20,Vega Alta,1,municipio
+3/31/20,Vega Baja,2,municipio
+3/31/20,Yauco,4,municipio
+3/31/20,New York,3,externo
+3/31/20,No disponible,120,nodisponible
+3/30/20,Aguas Buenas,1,municipio
+3/30/20,Añasco,1,municipio
+3/30/20,Arecibo,3,municipio
+3/30/20,Barranquitas,1,municipio
+3/30/20,Bayamón,11,municipio
+3/30/20,Cabo Rojo,3,municipio
+3/30/20,Caguas,10,municipio
+3/30/20,Canóvanas,3,municipio
+3/30/20,Carolina,4,municipio
+3/30/20,Cataño,1,municipio
+3/30/20,Cayey,1,municipio
+3/30/20,Ceiba,1,municipio
+3/30/20,Coamo,1,municipio
+3/30/20,Dorado,3,municipio
+3/30/20,Guaynabo,14,municipio
+3/30/20,Gurabo,1,municipio
+3/30/20,Hormigueros,1,municipio
+3/30/20,Isabela,1,municipio
+3/30/20,Juana Díaz,1,municipio
+3/30/20,Lajas,0,municipio
+3/30/20,Lares,1,municipio
+3/30/20,Mayaguez,3,municipio
+3/30/20,Moca,1,municipio
+3/30/20,Rio Grande,1,municipio
+3/30/20,San Juan,23,municipio
+3/30/20,San Sebastián,1,municipio
+3/30/20,Toa Alta,3,municipio
+3/30/20,Toa Baja,1,municipio
+3/30/20,Trujillo Alto,4,municipio
+3/30/20,Vega Alta,1,municipio
+3/30/20,Vega Baja,2,municipio
+3/30/20,Yauco,3,municipio
+3/30/20,New York,3,externo
+3/30/20,No disponible,130,nodisponible
+3/29/20,Aguada,1,municipio
+3/29/20,Aguas Buenas,1,municipio
+3/29/20,Añasco,1,municipio
+3/29/20,Arecibo,2,municipio
+3/29/20,Barranquitas,1,municipio
+3/29/20,Bayamón,4,municipio
+3/29/20,Cabo Rojo,1,municipio
+3/29/20,Caguas,12,municipio
+3/29/20,Canóvanas,2,municipio
+3/29/20,Carolina,5,municipio
+3/29/20,Cataño,1,municipio
+3/29/20,Cayey,1,municipio
+3/29/20,Ceiba,2,municipio
+3/29/20,Dorado,2,municipio
+3/29/20,Guaynabo,10,municipio
+3/29/20,Gurabo,3,municipio
+3/29/20,Hormigueros,1,municipio
+3/29/20,Lajas,1,municipio
+3/29/20,Lares,1,municipio
+3/29/20,Mayaguez,3,municipio
+3/29/20,Moca,1,municipio
+3/29/20,Rio Grande,1,municipio
+3/29/20,Sabana Grande,1,municipio
+3/29/20,san Juan,18,municipio
+3/29/20,San Sebastián,1,municipio
+3/29/20,Toa Alta,1,municipio
+3/29/20,Toa Baja,1,municipio
+3/29/20,Trujillo Alto,2,municipio
+3/29/20,Vega Baja,1,municipio
+3/29/20,New York,3,externo
+3/29/20,No disponible,89,nodisponible
+3/28/20,Aguada,1,municipio
+3/28/20,Añasco,1,municipio
+3/28/20,Barranquitas,1,municipio
+3/28/20,Bayamón,4,municipio
+3/28/20,Cabo Rojo,1,municipio
+3/28/20,Caguas,10,municipio
+3/28/20,Canóvanas,2,municipio
+3/28/20,Carolina,4,municipio
+3/28/20,Cataño,1,municipio
+3/28/20,Cayey,1,municipio
+3/28/20,Ceiba,1,municipio
+3/28/20,Dorado,1,municipio
+3/28/20,Guaynabo,4,municipio
+3/28/20,Gurabo,2,municipio
+3/28/20,Hormigueros,1,municipio
+3/28/20,Lajas,1,municipio
+3/28/20,Lares,1,municipio
+3/28/20,Mayaguez,2,municipio
+3/28/20,Rio Grande,1,municipio
+3/28/20,Sabana Grande,1,municipio
+3/28/20,San Juan,8,municipio
+3/28/20,Toa Alta,1,municipio
+3/28/20,Toa Baja,1,municipio
+3/28/20,Vega Baja,1,municipio
+3/28/20,New York,2,externo
+3/28/20,No disponible,73,nodisponible
+3/27/20,Aguada,1,municipio
+3/27/20,Barranquitas,1,municipio
+3/27/20,Bayamón,4,municipio
+3/27/20,Caguas,7,municipio
+3/27/20,Canóvanas,2,municipio
+3/27/20,Carolina,4,municipio
+3/27/20,Cayey,1,municipio
+3/27/20,Dorado,1,municipio
+3/27/20,Guaynabo,4,municipio
+3/27/20,Gurabo,1,municipio
+3/27/20,Hormigueros,1,municipio
+3/27/20,Lajas,1,municipio
+3/27/20,Mayaguez,1,municipio
+3/27/20,Rio Grande,1,municipio
+3/27/20,San Juan,6,municipio
+3/27/20,Toa Alta,1,municipio
+3/27/20,Toa Baja,1,municipio
+3/27/20,Vega Baja,1,municipio
+3/27/20,New York,2,externo
+3/27/20,No disponible,59,nodisponible
+3/26/20,Aguada,1,municipio
+3/26/20,Barranquitas,1,municipio
+3/26/20,Bayamón,3,municipio
+3/26/20,Caguas,6,municipio
+3/26/20,Canóvanas,2,municipio
+3/26/20,Carolina,2,municipio
+3/26/20,Cayey,1,municipio
+3/26/20,Guaynabo,2,municipio
+3/26/20,Hormigueros,1,municipio
+3/26/20,Mayaguez,1,municipio
+3/26/20,Rio Grande,1,municipio
+3/26/20,San Juan,3,municipio
+3/26/20,Toa Baja,1,municipio
+3/26/20,New York,2,externo
+3/26/20,No disponible,52,nodisponible
+3/25/20,Arecibo,1,región
+3/25/20,Bayamón,8,región
+3/25/20,Caguas,9,región
+3/25/20,Fajardo,1,región
+3/25/20,Mayaguez,10,región
+3/25/20,Metro,32,región
+3/25/20,Ponce,1,región
+3/25/20,EE.UU.,2,región
+3/24/20,Arecibo,0,región
+3/24/20,Bayamón,2,región
+3/24/20,Caguas,3,región
+3/24/20,Fajardo,1,región
+3/24/20,Mayaguez,9,región
+3/24/20,Metro,34,región
+3/24/20,Ponce,1,región
+3/24/20,No disponible,0,nodisponible
+4/4/20,Aguada,1,municipio
+4/4/20,Aguadilla,2,municipio
+4/4/20,Aguas Buenas,3,municipio
+4/4/20,Aibonito,1,municipio
+4/4/20,Añasco,3,municipio
+4/4/20,Arecibo,6,municipio
+4/4/20,Barranquitas,1,municipio
+4/4/20,Bayamón,22,municipio
+4/4/20,Cabo Rojo,4,municipio
+4/4/20,Caguas,18,municipio
+4/4/20,Canóvanas,3,municipio
+4/4/20,Carolina,19,municipio
+4/4/20,Cataño,4,municipio
+4/4/20,Cayey,1,municipio
+4/4/20,Ceiba,3,municipio
+4/4/20,Corozal,1,municipio
+4/4/20,Dorado,4,municipio
+4/4/20,Guánica,1,municipio
+4/4/20,Guayama,1,municipio
+4/4/20,Guaynabo,22,municipio
+4/4/20,Gurabo,3,municipio
+4/4/20,Hatillo,1,municipio
+4/4/20,Hormigueros,3,municipio
+4/4/20,Humacao,1,municipio
+4/4/20,Isabela,5,municipio
+4/4/20,Juana Díaz,2,municipio
+4/4/20,Lajas,1,municipio
+4/4/20,Lares,1,municipio
+4/4/20,Las Piedras,1,municipio
+4/4/20,Loíza,1,municipio
+4/4/20,Luquillo,4,municipio
+4/4/20,Mayaguez,10,municipio
+4/4/20,Moca,1,municipio
+4/4/20,Ponce,4,municipio
+4/4/20,Rio Grande,1,municipio
+4/4/20,Sabana Grande,1,municipio
+4/4/20,Salinas,1,municipio
+4/4/20,San Germán,1,municipio
+4/4/20,San Juan,43,municipio
+4/4/20,San Lorenzo,2,municipio
+4/4/20,San Sebastián,3,municipio
+4/4/20,Toa Alta,7,municipio
+4/4/20,Toa Baja,9,municipio
+4/4/20,Trujillo Alto,5,municipio
+4/4/20,Vega Alta,6,municipio
+4/4/20,Vega Baja,3,municipio
+4/4/20,Villalba,1,municipio
+4/4/20,Yabucoa,1,municipio
+4/4/20,Yauco,5,municipio
+4/4/20,New York,4,externo
+4/4/20,No disponible,224,nodisponible
