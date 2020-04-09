@@ -1,107 +1,136 @@
 {
-    "Resultados": [{
-        "resultados": "positivos",
-        "total": "683",
-        "totalveteranos": "51",
-        "laboratoriosprivados": "417",
-        "totalsalud": "215"
-    }, {
-        "resultados": "negativos",
-        "total": "4703",
-        "totalveteranos": "516",
-        "laboratoriosprivados": "2511",
-        "totalsalud": "1676"
-    }, {
-        "resultados": "pendientes",
-        "total": "1304",
-        "totalveteranos": "71",
-        "laboratoriosprivados": "1052",
-        "totalsalud": "181"
-    }, {
-        "resultados": "inconcluso",
-        "total": "6",
-        "totalveteranos": "0",
-        "laboratoriosprivados": "0",
-        "totalsalud": "6"
-    }],
-    "Positivos": [{
-        "Fecha": "3/16/20",
-        "Casos": "5"
-    }, {
-        "Fecha": "3/17/20",
-        "Casos": "5"
-    }, {
-        "Fecha": "3/18/20",
-        "Casos": "5"
-    }, {
-        "Fecha": "3/19/20",
-        "Casos": "5"
-    }, {
-        "Fecha": "3/20/20",
-        "Casos": "14"
-    }, {
-        "Fecha": "3/21/20",
-        "Casos": "21"
-    }, {
-        "Fecha": "3/22/20",
-        "Casos": "23"
-    }, {
-        "Fecha": "3/23/20",
-        "Casos": "31"
-    }, {
-        "Fecha": "3/24/20",
-        "Casos": "51"
-    }, {
-        "Fecha": "3/25/20",
-        "Casos": "64"
-    }, {
-        "Fecha": "3/26/20",
-        "Casos": "79"
-    }, {
-        "Fecha": "3/27/20",
-        "Casos": "100"
-    }, {
-        "Fecha": "3/28/20",
-        "Casos": "127"
-    }, {
-        "Fecha": "3/29/20",
-        "Casos": "174"
-    }, {
-        "Fecha": "3/30/20",
-        "Casos": "239"
-    }, {
-        "Fecha": "3/31/20",
-        "Casos": "286"
-    }, {
-        "Fecha": "4/1/20",
-        "Casos": "316"
-    }, {
-        "Fecha": "4/2/20",
-        "Casos": "378"
-    }, {
-        "Fecha": "4/3/20",
-        "Casos": "452"
-    }, {
-        "Fecha": "4/4/20",
-        "Casos": "475"
-    }, {
-        "Fecha": "4/5/20",
-        "Casos": "513"
-    }, {
-        "Fecha": "4/6/20",
-        "Casos": "573"
-    }, {
-        "Fecha": "4/7/20",
-        "Casos": "620"
-    }, {
-        "Fecha": "4/8/20",
-        "Casos": "683"
-    }],
-    "Sexo": [{
-        "casos": "329",
-        "sexo": "femenino"
-    }, {
-        "casos": "354",
-        "sexo": "masculino"
-    }]
+    "Resultados": [
+        {
+            "resultados": "positivos",
+            "total": "683",
+            "totalveteranos": "51",
+            "laboratoriosprivados": "417",
+            "totalsalud": "215"
+        },
+        {
+            "resultados": "negativos",
+            "total": "4703",
+            "totalveteranos": "516",
+            "laboratoriosprivados": "2511",
+            "totalsalud": "1676"
+        },
+        {
+            "resultados": "pendientes",
+            "total": "1304",
+            "totalveteranos": "71",
+            "laboratoriosprivados": "1052",
+            "totalsalud": "181"
+        },
+        {
+            "resultados": "inconcluso",
+            "total": "6",
+            "totalveteranos": "0",
+            "laboratoriosprivados": "0",
+            "totalsalud": "6"
+        }
+    ],
+    "Positivos": [
+        {
+            "Fecha": "3/16/20",
+            "Casos": "5"
+        },
+        {
+            "Fecha": "3/17/20",
+            "Casos": "5"
+        },
+        {
+            "Fecha": "3/18/20",
+            "Casos": "5"
+        },
+        {
+            "Fecha": "3/19/20",
+            "Casos": "5"
+        },
+        {
+            "Fecha": "3/20/20",
+            "Casos": "14"
+        },
+        {
+            "Fecha": "3/21/20",
+            "Casos": "21"
+        },
+        {
+            "Fecha": "3/22/20",
+            "Casos": "23"
+        },
+        {
+            "Fecha": "3/23/20",
+            "Casos": "31"
+        },
+        {
+            "Fecha": "3/24/20",
+            "Casos": "51"
+        },
+        {
+            "Fecha": "3/25/20",
+            "Casos": "64"
+        },
+        {
+            "Fecha": "3/26/20",
+            "Casos": "79"
+        },
+        {
+            "Fecha": "3/27/20",
+            "Casos": "100"
+        },
+        {
+            "Fecha": "3/28/20",
+            "Casos": "127"
+        },
+        {
+            "Fecha": "3/29/20",
+            "Casos": "174"
+        },
+        {
+            "Fecha": "3/30/20",
+            "Casos": "239"
+        },
+        {
+            "Fecha": "3/31/20",
+            "Casos": "286"
+        },
+        {
+            "Fecha": "4/1/20",
+            "Casos": "316"
+        },
+        {
+            "Fecha": "4/2/20",
+            "Casos": "378"
+        },
+        {
+            "Fecha": "4/3/20",
+            "Casos": "452"
+        },
+        {
+            "Fecha": "4/4/20",
+            "Casos": "475"
+        },
+        {
+            "Fecha": "4/5/20",
+            "Casos": "513"
+        },
+        {
+            "Fecha": "4/6/20",
+            "Casos": "573"
+        },
+        {
+            "Fecha": "4/7/20",
+            "Casos": "620"
+        },
+        {
+            "Fecha": "4/8/20",
+            "Casos": "683"
+        }
+    ],
+    "Sexo": [
+        {
+            "masculino": "354",
+            "femenino": "329"
+        }
+    ]
 }
