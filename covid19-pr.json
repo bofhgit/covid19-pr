@@ -105,6 +105,72 @@
             "Casos": "683"
         }
     ], 
+    "Fallecidos": [
+        {
+            "Fecha": "3/24/20", 
+            "Fallecidos": "0"
+        }, 
+        {
+            "Fecha": "3/25/20", 
+            "Fallecidos": "2"
+        }, 
+        {
+            "Fecha": "3/26/20", 
+            "Fallecidos": "3"
+        }, 
+        {
+            "Fecha": "3/27/20", 
+            "Fallecidos": "3"
+        }, 
+        {
+            "Fecha": "3/28/20", 
+            "Fallecidos": "5"
+        }, 
+        {
+            "Fecha": "3/29/20", 
+            "Fallecidos": "6"
+        }, 
+        {
+            "Fecha": "3/30/20", 
+            "Fallecidos": "8"
+        }, 
+        {
+            "Fecha": "3/31/20", 
+            "Fallecidos": "11"
+        }, 
+        {
+            "Fecha": "4/1/20", 
+            "Fallecidos": "12"
+        }, 
+        {
+            "Fecha": "4/2/20", 
+            "Fallecidos": "15"
+        }, 
+        {
+            "Fecha": "4/3/20", 
+            "Fallecidos": "18"
+        }, 
+        {
+            "Fecha": "4/4/20", 
+            "Fallecidos": "20"
+        }, 
+        {
+            "Fecha": "4/5/20", 
+            "Fallecidos": "21"
+        }, 
+        {
+            "Fecha": "4/6/20", 
+            "Fallecidos": "23"
+        }, 
+        {
+            "Fecha": "4/7/20", 
+            "Fallecidos": "24"
+        }, 
+        {
+            "Fecha": "4/8/20", 
+            "Fallecidos": "33"
+        }
+    ], 
     "Sexo": [
         {
             "masculino": "354", 
