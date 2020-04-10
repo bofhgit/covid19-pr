@@ -1,32 +1,10 @@
 {
     "Resultados": [
         {
-            "resultados": "positivos", 
-            "total": "683", 
-            "totalveteranos": "51", 
-            "laboratoriosprivados": "417", 
-            "totalsalud": "215"
-        }, 
-        {
-            "resultados": "negativos", 
-            "total": "4703", 
-            "totalveteranos": "516", 
-            "laboratoriosprivados": "2511", 
-            "totalsalud": "1676"
-        }, 
-        {
-            "resultados": "pendientes", 
-            "total": "1304", 
-            "totalveteranos": "71", 
-            "laboratoriosprivados": "1052", 
-            "totalsalud": "181"
-        }, 
-        {
-            "resultados": "inconcluso", 
-            "total": "6", 
-            "totalveteranos": "0", 
-            "laboratoriosprivados": "0", 
-            "totalsalud": "6"
+            "inconcluso": "6", 
+            "positivos": "683", 
+            "pendientes": "1304", 
+            "negativos": "4703"
         }
     ], 
     "Positivos": [
