@@ -1,14 +1,14 @@
 {
     "Resultados": [
         {
-            "Positivos": "683", 
+            "Positivos": "725", 
             "Inconcluso": "6", 
-            "Pendientes": "1304", 
-            "Negativos": "4703"
+            "Pendientes": "1392", 
+            "Negativos": "5121"
         }
     ], 
     "File-info": {
-        "File-generated": "2020-04-10T01:27:52.506737"
+        "File-generated": "2020-04-10T20:06:26.172747"
     }, 
     "Positivos": [
         {
@@ -172,12 +172,16 @@
         {
             "Fecha": "4/8/20", 
             "Fallecidos": "33"
+        }, 
+        {
+            "Fecha": "4/9/20", 
+            "Fallecidos": "39"
         }
     ], 
     "Sexo": [
         {
-            "Masculino": "354", 
-            "Femenino": "329"
+            "Masculino": "376", 
+            "Femenino": "349"
         }
     ]
 }
